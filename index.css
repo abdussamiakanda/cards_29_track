@@ -1,6 +1,6 @@
 body{
   color: white;
-  font-size: 30px;
+  font-size: 50px;
   background-color: #001111;
 }
 
@@ -15,16 +15,17 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 30px;
+  width: 40px;
 }
 .cards{
-  font-size: 20px;
+  font-size: 30px;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .card{
   display: block;
-  width: 30px;
+  width: 40px;
   border: 1px solid white;
   border-radius: 3px;
   margin: 2px;
