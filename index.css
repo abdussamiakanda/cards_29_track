@@ -1,6 +1,6 @@
 body{
   color: white;
-  font-size: 50px;
+  font-size: 40px;
   background-color: #001111;
 }
 
@@ -18,7 +18,7 @@ body{
   width: 40px;
 }
 .cards{
-  font-size: 30px;
+  font-size: 20px;
   display: flex;
 }
 
