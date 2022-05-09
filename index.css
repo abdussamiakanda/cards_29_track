@@ -1,6 +1,6 @@
 body{
   color: white;
-  font-size: 40px;
+  font-size: 30px;
   background-color: #001111;
 }
 
@@ -15,7 +15,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 40px;
+  width: 30px;
 }
 .cards{
   font-size: 20px;
@@ -24,7 +24,7 @@ body{
 
 .card{
   display: block;
-  width: 40px;
+  width: 30px;
   border: 1px solid white;
   border-radius: 3px;
   margin: 2px;
